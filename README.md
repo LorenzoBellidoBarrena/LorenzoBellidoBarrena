@@ -45,8 +45,8 @@ Me apasiona construir **proyectos robustos, escalables y prácticos**, siempre e
 
 ## 🌍 Idiomas
 - 🇪🇸 Español — Nativo  
-- 🇬🇧 Inglés — B1/B2  
-- 🇵🇹 Portugués — B1/B2  
+- 🇬🇧 Inglés — B1/B2
+- 🇵🇹 Portugués — B1
 
 ---
 
