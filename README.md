@@ -24,8 +24,8 @@ Me apasiona construir **proyectos robustos, escalables y prácticos**, siempre e
 ---
 
 ## 📊 Stats en GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=lorenzobeba&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzobeba&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=lorenzobellidobarrena&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzobellidobarrena&layout=compact&theme=radical)
 
 ---
 
