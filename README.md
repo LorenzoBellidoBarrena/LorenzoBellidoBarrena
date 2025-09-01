@@ -1,5 +1,6 @@
 # 👋 ¡Hola! Soy Lorenzo Bellido Barrena  
 💻 Full Stack Developer | 🌐 Web & Mobile Solutions | 🚀 En constante aprendizaje
+![Banner](https://github.com/LorenzoBellidoBarrena/LorenzoBellidoBarrena/blob/main/banner.png)
 
 ---
 
